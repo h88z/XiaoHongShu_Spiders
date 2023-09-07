@@ -5,6 +5,15 @@
 
 <img decoding="async" src="https://github.com/h88z/XiaoHongShu_Spiders/blob/main/wechat.jpg" width="30%">
 
+---
+功能介绍
+---
+1. 关键字爬取笔记及作者数据
+   1.1. 笔记数据
+     1.1.1. 笔记ID及链接
+     1.1.2. 笔记类型(图文笔记或视频笔记)
+   1.2. 作者数据
+
 ## 版本更新记录
 
 ### 即将实现
